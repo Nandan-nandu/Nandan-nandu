@@ -10,7 +10,6 @@
 
 Skills: PYTHON/ HTML / CSS
 
-- 🌱 I’m currently learning R language 
 
 - 📫 How to reach me:  On LinkedIn 
 
