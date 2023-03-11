@@ -2,7 +2,7 @@
 
 #### Computer science student.
 
-➡️Studying computer science engineering 
+➡️B.E computer science engineering 
 
 ➡️Intern at zephyr technologies Pvt Ltd.
 
