@@ -8,7 +8,7 @@
 
 ➡️Intrested in data science.
 
-Skills: PYTHON/ HTML / CSS
+Skills: PYTHON/ MySql / Tableau / GUI(tkinter) /HTML 
 
 
 - 📫 How to reach me:  On LinkedIn 
