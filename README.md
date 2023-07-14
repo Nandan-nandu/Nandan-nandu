@@ -4,11 +4,11 @@
 
 ➡️B.E computer science engineering 
 
-➡️Intern at zephyr technologies Pvt Ltd.
+➡️Data analyst intern at skill lync.
 
 ➡️Intrested in data science.
 
-Skills: PYTHON/ MySql / Tableau / GUI(tkinter) /HTML 
+Skills: PYTHON/ MySql / Tableau / GUI(tkinter) /HTML / Power BI / Excel /
 
 
 - 📫 How to reach me:  On LinkedIn 
