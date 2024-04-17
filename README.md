@@ -23,11 +23,7 @@ Skills: PYTHON/ MySql / Tableau / GUI(tkinter) /HTML / Power BI / Excel /
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nandan-nandu)  
 
-![GitHub metrics](https://metrics.lecoq.io/Nandan-nandu)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nandan-nandu)  
-
-![Profile views](https://gpvc.arturio.dev/Nandan-nandu)  
 
 
 
